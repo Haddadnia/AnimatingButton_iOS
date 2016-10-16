@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AnimatingButton_Tests' do
+  pod 'AnimatingButton', :path => '../'
+  
+  
+end
