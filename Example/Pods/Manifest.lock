@@ -1,0 +1,16 @@
+PODS:
+  - AnimatingButton (0.1.0)
+
+DEPENDENCIES:
+  - AnimatingButton (from `../`)
+
+EXTERNAL SOURCES:
+  AnimatingButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AnimatingButton: e2c718d05826438f7a7b3f23eb5f2dcbbb32cd73
+
+PODFILE CHECKSUM: c0d9f5363dc58f450c0bd9bd30204ec5e5c47b11
+
+COCOAPODS: 1.0.0
